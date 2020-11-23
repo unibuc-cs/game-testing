@@ -1,0 +1,31 @@
+
+message = {
+
+
+"testContext"=
+{
+   # base parameters
+   requestCategory="UI",
+   requestFunc=e.g. what to test "checkWeaponCross" or "checkAmmoSyncText"
+	screenshotsCount : 1,
+	screenshotData : bytes... # Supposing to have same size so we can process multiple/videos of last N screenshotsCount
+	soundsCount : 0,
+	soundsData : bytes... 
+
+
+   # specific test parameters
+   # E.g. for a bounding boxed ammo check and known range of colors:
+   "bbox" : [912, 1015, 79, 49],  # Where should the text appear ?
+	"textValueColor_inHSV_min" : 129,  # What color range are we exected in HSV space ?
+	"textValueColor_inHSV_max" : 130,
+}
+
+
+"expectedAnswer"
+{
+	
+  "boolResult" : "True", "False"
+   "intResult" : a numeric value...
+}
+
+}
