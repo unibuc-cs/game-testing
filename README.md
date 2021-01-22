@@ -1,1 +1,1 @@
-# Game Testing Automation
+# Game Test Automation
