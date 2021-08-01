@@ -1,4 +1,4 @@
-from flask import Flask, request, Response
+from flask import Flask, request, Response, jsonify
 import jsonpickle
 import numpy as np
 import cv2
@@ -9,9 +9,18 @@ app = Flask(__name__)
 
 logicLayer_inst = LogicLayer.LogicLayer()
 
+@app.route('/index', methods=['GET', 'POST'])
+def index():
+    return jsonify(200)
+
+    """ # Transforms to a dictionary 
+    return jsonify(username=g.user.username,
+                   email=g.user.email,
+                   id=g.user.id)
+    """
 
 # route http posts to this method
-@app.route('/check_visuals', methods=['POST'])
+@app.route('/check_visuals', methods=['GET', 'POST'])
 def check_visuals():
     # Get the message
     r = request
@@ -66,8 +75,11 @@ def testUI(context, requestFunc, requestExpectedAnswer):
 
 
 # TODO add all other functionalities
-@app.route('/check_sounds', methods=['POST'])
+@app.route('/check_sounds', methods=['GET', 'POST'])
 def check_sounds():
+    # Pack the result and respond
+    response = {'result': 0} 
+    return response
     pass
 
 # start flask app
