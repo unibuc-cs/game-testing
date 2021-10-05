@@ -1,0 +1,10 @@
+C:\repos\game-testing\Code\TestsPriorityApp\bin\Debug\TestsPriorityApp.exe.config
+C:\repos\game-testing\Code\TestsPriorityApp\bin\Debug\TestsPriorityApp.exe
+C:\repos\game-testing\Code\TestsPriorityApp\bin\Debug\TestsPriorityApp.pdb
+C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.AssemblyReference.cache
+C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.Priorities.resources
+C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.Properties.Resources.resources
+C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.GenerateResource.cache
+C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.CoreCompileInputs.cache
+C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.exe
+C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.pdb
