@@ -16,7 +16,8 @@ namespace TestsPriorityApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Priorities());
+            //Application.Run(new Priorities());
+            Application.Run(new BlueprintTesterConfig());
         }
     }
 }

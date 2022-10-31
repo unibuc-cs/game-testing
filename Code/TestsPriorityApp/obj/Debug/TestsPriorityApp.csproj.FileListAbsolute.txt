@@ -8,3 +8,15 @@ C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.Ge
 C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.CoreCompileInputs.cache
 C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.exe
 C:\repos\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.pdb
+C:\Work\game-testing\Code\TestsPriorityApp\bin\Debug\TestsPriorityApp.exe.config
+C:\Work\game-testing\Code\TestsPriorityApp\bin\Debug\TestsPriorityApp.exe
+C:\Work\game-testing\Code\TestsPriorityApp\bin\Debug\TestsPriorityApp.pdb
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.AssemblyReference.cache
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.SuggestedBindingRedirects.cache
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.Priorities.resources
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.Properties.Resources.resources
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.GenerateResource.cache
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.csproj.CoreCompileInputs.cache
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.exe
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.pdb
+C:\Work\game-testing\Code\TestsPriorityApp\obj\Debug\TestsPriorityApp.BlueprintTesterConfig.resources

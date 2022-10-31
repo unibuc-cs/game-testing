@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BlueprintTesterConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlueprintTesterConfig.Designer.cs">
+      <DependentUpon>BlueprintTesterConfig.cs</DependentUpon>
+    </Compile>
     <Compile Include="Priorities.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +60,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BlueprintTesterConfig.resx">
+      <DependentUpon>BlueprintTesterConfig.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Priorities.resx">
       <DependentUpon>Priorities.cs</DependentUpon>
     </EmbeddedResource>
