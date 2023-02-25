@@ -1,6 +1,11 @@
 # Game Test Automation
 
-Check the documentation in the Doc folder and the tool in the Code folder
+In this project, a framework based on computer vision methods is developed that can be used to automate the process of game testing.
+The goal is to replace the parts of the testing process that require human users (testers) with machines as much as possible in order to reduce costs and perform more tests in less time by scaling hardware resources.
+
+It is a reusable prototype framework architecture and implementation that is independent of the engine and deployment platform (i.e., it works on different devices such as PCs, game consoles, or different operating systems) and allows users to directly reuse existing open source computer vision library code.
+
+The documentation can be found in the Doc directory, and the tool can be found in the Code directory.
 
 A demo video of our tool can be viewed online here:
 https://youtu.be/qFfWvaLtOU0.
